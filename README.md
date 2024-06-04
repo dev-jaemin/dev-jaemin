@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior frontend developer with React.js!
+I'm a junior frontend engineer with React.js!
 
 I'm a frontend engineer at [GC COMPANY](https://www.yeogi.com/) (여기어때컴퍼니)
 
