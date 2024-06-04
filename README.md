@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a junior frontend developer with React.js!
 
-I'm a frontend engineer at [GC COMPANY](https://www.yeogi.com/)
+I'm a frontend engineer at [GC COMPANY](https://www.yeogi.com/) (여기어때컴퍼니)
 
 ### Tech Stack
 - Next.js (Typescript)
