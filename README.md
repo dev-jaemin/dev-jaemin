@@ -15,6 +15,6 @@ I'm a frontend engineer at [GC COMPANY](https://www.yeogi.com/) (여기어때컴
 - GraphQL (Apollo Client)
 - Nest.js
   - Maintained and developed new features for the BFF
-  - Converted RESTful Culipay backend APIs to GraphQL
+  - Converted RESTful Kurlypay backend APIs to GraphQL
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zzamny1013)](https://solved.ac/zzamny1013)
